@@ -604,7 +604,7 @@ document.addEventListener('DOMContentLoaded', () => {
   if (whatsappBtn) {
     whatsappBtn.addEventListener('click', () => {
       const shareMsg = encodeURIComponent(
-        `🌺 *ROYAL WEDDING INVITATION* 🌺\n\n` +
+        `🌺 *WEDDING INVITATION* 🌺\n\n` +
         `With the divine blessings of Lord Ganesha, you are cordially invited to celebrate the auspicious wedding of:\n\n` +
         `🤵 *Deepanshu Mangla*\n` +
         `       & \n` +
